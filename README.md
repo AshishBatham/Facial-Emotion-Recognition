@@ -30,7 +30,10 @@ By capturing and interpreting facial emotion automatically, this system powers *
   * Pillow
   * tensorflow
   * scikit-learn
+1. **Install the required libraries**:
 
+   ```bash
+   pip install -r requirements.txt
 ## Model Architecture
 
 This project implements a **Convolutional Neural Network (CNN)** trained on a standard facial emotion dataset.
@@ -65,12 +68,6 @@ This project implements a **Convolutional Neural Network (CNN)** trained on a st
 -  [Facial Dataset](https://www.kaggle.com/datasets/chiragsoni/ferdata) with train and test split (48×48 grayscale images, 7 classes)
 - Classes: `angry`, `disgust`, `fear`, `happy`, `sad`, `surprise`, `neutral`
 
-## Usage
-
-1. **Install the required libraries**:
-
-   ```bash
-   pip install -r requirements.txt
 ## Future Enhancements
 
 - Increase dataset variety (lighting, ethnicity, occlusion) to improve generalisation.
