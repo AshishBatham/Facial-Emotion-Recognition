@@ -59,7 +59,7 @@ This project implements a **Convolutional Neural Network (CNN)** trained on a st
 
 ## Dataset
 
--  [FER-2013](https://www.kaggle.com/datasets/chiragsoni/ferdata) train and test data (48×48 grayscale images, 7 classes)
+-  [Facial Dataset](https://www.kaggle.com/datasets/chiragsoni/ferdata) with train and test split (48×48 grayscale images, 7 classes)
 - Classes: `angry`, `disgust`, `fear`, `happy`, `sad`, `surprise`, `neutral`
 
 ## Usage
