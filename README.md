@@ -1,9 +1,8 @@
 # Facial Emotion Recognition using CNN
-| Name                  | Roll Number |
-|-----------------------|-------------|
-| Ashish Batham         | 202210101150087 |
-| Yash Mishra         | 202210101150094 |
-| Shashank Kumar        | 202210101150102 |
+### Ashish Batham (202210101150087)
+### Yash Mishra (202210101150094)
+### Shashank Kumar (202210101150102)
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
